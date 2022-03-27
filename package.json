@@ -1,0 +1,29 @@
+{
+  "name": "nodewithmongoose",
+  "version": "1.0.0",
+  "description": "Integrate a Mongo Db with Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atuljha/nodeWithMongooseDemo.git"
+  },
+  "keywords": [
+    "testme"
+  ],
+  "author": "Atul Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atuljha/nodeWithMongooseDemo/issues"
+  },
+  "homepage": "https://github.com/atuljha/nodeWithMongooseDemo#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.11.15",
+    "morgan": "^1.10.0"
+  }
+}
